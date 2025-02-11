@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Thanks for visiting my page!
 
 My name is Ana, and I am currently a graduate student studying Applied Data Science at the University of Chicago. I have a bachelor's degree in Molecular, Cellular, and Developmental Biology from Stanford University, and I am currently based in San Diego, CA.
 
