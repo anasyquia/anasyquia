@@ -1,6 +1,7 @@
 ## Hi there 👋 Thanks for visiting my page!
 
-**I'm Ana**, and I am currently a graduate student in Applied Data Science at the University of Chicago. I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology from Stanford University and bring a unique blend of research, clinical, and data science experience. I am currently based in San Diego, CA.
+**I'm Ana*, and I am currently a graduate student in Applied Data Science at the University of Chicago.**
+I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology from Stanford University and bring a unique blend of research, clinical, and data science experience. I am currently based in San Diego, CA.
 
 Before pivoting to data science, I conducted developmental cardiac research using 3D light sheet microscopy at Stanford, supported breast cancer care as a medical scribe at Cedars Sinai, and worked on oncolytic viral therapy development at a cancer immunotherapy company.
 
