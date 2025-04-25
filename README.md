@@ -12,7 +12,7 @@ Before pivoting to data science, I conducted developmental cardiac research usin
 
 Now, I’m focused on applying data science to real-world challenges across a range of industries. My interests include machine learning, forecasting, recommender systems, and data storytelling — and I’m especially excited about work that drives tangible impact. I'm open to roles in healthcare and biotech, but also interested in branching out into tech, retail, public sector, or mission-driven organizations more broadly.
 
-I enjoy working with Python, SQL, and R, and have experience with widely used tools and libraries such as Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Spark, and Jupyter. I’m also comfortable working in cloud environments like Google Cloud Platform (GCP), and enjoy applying these tools to real-world problems in machine learning, analytics, and data visualization.
+I enjoy working with Python, SQL, and R, and have experience with widely used tools and libraries such as Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Spark, and Jupyter. I’m also comfortable working in cloud environments like Google Cloud Platform (GCP), and enjoy applying these tools and more to real-world problems in machine learning, analytics, and data visualization.
 
 ***Here's how to reach me:***
 
