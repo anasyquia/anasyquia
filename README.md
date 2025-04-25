@@ -6,7 +6,8 @@ I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology fr
 
 This GitHub is still a work in progress, so feel free to reach out if you have questions or want to collaborate. I have more projects and experiences not yet posted — stay tuned! 😁
 
-*More about me:*
+**More about me:**
+
 Before pivoting to data science, I conducted developmental cardiac research using 3D light sheet microscopy at Stanford, supported breast cancer care as a medical scribe at Cedars Sinai, and worked on oncolytic viral therapy development at a cancer immunotherapy company.
 
 Now, I’m focused on applying data science to real-world challenges across a range of industries. My interests include machine learning, forecasting, recommender systems, and data storytelling — and I’m especially excited about work that drives tangible impact. I'm open to roles in healthcare and biotech, but also interested in branching out into tech, retail, public sector, or mission-driven organizations more broadly.
