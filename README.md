@@ -1,6 +1,6 @@
 ## Hi there 👋 Thanks for visiting my page!
 
-### **I'm Ana, and I am currently a graduate student in Applied Data Science at the University of Chicago.**
+### **I'm Ana, and I am a recent graduate student in Applied Data Science at the University of Chicago.**
 
 I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology from Stanford University and bring a unique blend of research, clinical, and data science experience. I am currently based in San Diego, CA but am open to relocation.
 
