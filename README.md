@@ -1,6 +1,6 @@
 ## Hi there 👋 Thanks for visiting my page!
 
-### **I'm Ana, and I am a recent graduate student in Applied Data Science at the University of Chicago.**
+### **I'm Ana, and I am a recent graduate of the Master's in Applied Data Science Program at the University of Chicago.**
 
 I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology from Stanford University and bring a unique blend of research, clinical, and data science experience. I am currently based in San Diego, CA but am open to relocation.
 
@@ -10,7 +10,7 @@ This GitHub is still a work in progress, so feel free to reach out if you have q
 
 Before pivoting to data science, I conducted developmental cardiac research using 3D light sheet microscopy at Stanford, supported breast cancer care as a medical scribe at Cedars Sinai, and worked on oncolytic viral therapy development at a cancer immunotherapy company.
 
-Now, I’m focused on applying data science to real-world challenges across a range of industries. My interests include machine learning, forecasting, recommender systems, and data storytelling — and I’m especially excited about work that drives tangible impact. I'm open to roles in healthcare and biotech, but also interested in branching out into tech, retail, public sector, or mission-driven organizations more broadly.
+Now, I’m focused on applying data science to real-world challenges across a range of industries. My interests include machine learning, forecasting,  NLP, generative AI, recommender systems, and data storytelling — and I’m especially excited about work that drives tangible impact. I'm open to roles in healthcare and biotech, but also interested in branching out into tech, retail, public sector, or mission-driven organizations more broadly.
 
 I enjoy working with Python, SQL, and R, and have experience with widely used tools and libraries such as Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Spark, and Jupyter. I’m also comfortable working in cloud environments like Google Cloud Platform (GCP), and enjoy applying these tools and more to real-world problems in machine learning, analytics, and data visualization.
 
