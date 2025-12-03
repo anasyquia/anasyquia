@@ -1,24 +1,31 @@
-## Hi there 👋 Thanks for visiting my page!
+## Hi there 👋 I'm Ana!
+I'm a recent graduate of the M.S. in Applied Data Science program at the University of Chicago, with experience building large-scale analytics and machine learning systems. I love turning messy, real-world data into clear insights and practical solutions.
 
-### **I'm Ana, and I am a recent graduate of the Master's in Applied Data Science Program at the University of Chicago.**
+### What I work on
+- ***Large-scale analytics & ML:*** forecasting, classification, clustering, anomaly detection
+- ***NLP & multimodal systems:*** BERTopic, RAG pipelines, CLIP + FAISS retrieval
+- ***Distributed data:*** PySpark, GCP, AWS
+- ***Data storytelling:*** dashboards, executive insights, decision-support tools
 
-I earned a B.S. with Honors in Molecular, Cellular, and Developmental Biology from Stanford University and bring a unique blend of research, clinical, and data science experience. I am currently based in San Diego, CA but am open to relocation.
+### Featured Projects
+*Note: Some projects are not public due to confidentiality — happy to discuss if you'd like to learn more.*
+- ***Hierarchical Forecasting System (Capstone):*** Predicted demand across 45K+ time series; enabled ~$3M projected annual impact
+- ***Amazon Review Fraud Detection:*** PySpark + MinHashLSH pipeline to detect AI-generated & near-duplicate reviews across 75GB of data
+- ***Multimodal Product Search:*** Sub-second CLIP + FAISS retrieval system for text–image search
+- ***News Analytics & Trend Detection:*** Analyzed 200K+ articles to uncover industry shifts using BERTopic & transformer embeddings
 
-This GitHub is still a work in progress, so feel free to reach out if you have questions or want to collaborate. I have more projects and experiences not yet posted — stay tuned! 😁
+(More projects coming soon—actively updating!)
 
-***More about me:***
+### Technical Skills
+Python, SQL, R, PySpark, GCP, AWS, Streamlit, Tableau, scikit-learn, Pandas, NumPy, Hugging Face, LangChain, FAISS, MinHashLSH, RAG pipelines, Jupyter
 
-Before pivoting to data science, I conducted developmental cardiac research using 3D light sheet microscopy at Stanford, supported breast cancer care as a medical scribe at Cedars Sinai, and worked on oncolytic viral therapy development at a cancer immunotherapy company.
+### About Me
+I previously worked in developmental cardiac biology, oncology care, and cancer immunotherapy research. Now, I’m excited to apply data science to meaningful real-world problems in tech, healthcare, and mission-driven organizations.
 
-Now, I’m focused on applying data science to real-world challenges across a range of industries. My interests include machine learning, forecasting,  NLP, generative AI, recommender systems, and data storytelling — and I’m especially excited about work that drives tangible impact. I'm open to roles in healthcare and biotech, but also interested in branching out into tech, retail, public sector, or mission-driven organizations more broadly.
-
-I enjoy working with Python, SQL, and R, and have experience with widely used tools and libraries such as Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Spark, and Jupyter. I’m also comfortable working in cloud environments like Google Cloud Platform (GCP), and enjoy applying these tools and more to real-world problems in machine learning, analytics, and data visualization.
-
-***Here's how to reach me:***
-
-📥 Email: ana.syquia@gmail.com or asyquia@uchicago.edu
-
-📞 Cell: (760)681-6111
+## Let’s connect
+📧 ana.syquia@gmail.com
+📞 (760) 681-6111
+🌐 linkedin.com/in/anasyquia
 
 
 <!--
